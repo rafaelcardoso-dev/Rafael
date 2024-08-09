@@ -1,2 +1,2 @@
 # Rafael Cardoso
- Learning
+ Learning Git and GitHub
